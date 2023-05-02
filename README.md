@@ -206,3 +206,4 @@ https://www.ukbitcoinblog.com/feed/
 https://zycrypto.com/feed/
 http://fetchrss.com/rss/608cfdce491e3967e35a5c12608cfeacee1b217b11729ab2.xml
 http://fetchrss.com/rss/608cfdce491e3967e35a5c12608cfeacee1b217b11729ab2.xml
+https://www.mcoins.eu/rss.xml
